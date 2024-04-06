@@ -26,7 +26,7 @@ body{
 #newtask{
     background-color: #ffffff;
     padding: 30px 20px;
-    border-radius: 5px;/*est utilisée pour arrondir les coins des éléments HTML qui ont des bordures*/
+    border-radius: 5px;
     box-shadow:0 15px 30px rgba(0,0,0,0.3);
 }
 #newtask input{
@@ -47,7 +47,7 @@ body{
 }
 #newtask button{
     position: relative;
-    /*float: right;*/
+  
     width: 20%;
     height: 45%;
     border-radius: 5px;
@@ -56,7 +56,7 @@ body{
     font-weight: 500;
     background-color: #8052ec;
     border: none;
-    color: #ffffff;/* loun 5at*/
+    color: #ffffff;
     cursor: pointer;
 }
 #tasks{

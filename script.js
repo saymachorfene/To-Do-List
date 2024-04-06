@@ -31,7 +31,7 @@ document.querySelector('#push').onclick = function () {
                 this.classList.toggle('completed');
             }
         }
-        //clearing the input filed after each entry
+        
         document.querySelector("#newtask input").value = "";
     }
 }  
